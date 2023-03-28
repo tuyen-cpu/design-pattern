@@ -9,4 +9,4 @@
 
 2. Abstract Factory Pattern:
 
-![abstractFactory](https://user-images.githubusercontent.com/80166551/228160801-ceba9876-136a-495e-a8e4-cc189a938de0.png)
+![factory.abstractFactory](https://user-images.githubusercontent.com/80166551/228160801-ceba9876-136a-495e-a8e4-cc189a938de0.png)
